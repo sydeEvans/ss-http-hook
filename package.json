@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "iohook": "^0.6.5",
+    "shadowsocks": "^1.5.3"
+  }
+}
